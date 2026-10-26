@@ -1,1 +1,124 @@
 
+{
+  "weekNumber": 44,
+  "startDateUtc": "2026-10-26",
+  "endDateUtc": "2026-11-01",
+  "challenges": [
+    {
+      "id": "ucl_top_scorers",
+      "utcDate": "2026-10-26",
+      "title": "Champions League All-Time Top Scorers",
+      "titleAr": "أفضل الهدافين في تاريخ دوري أبطال أوروبا",
+      "description": "Placeholder schedule. Verified weekly questions will replace this file before release.",
+      "descriptionAr": "جدول مؤقت. سيتم استبدال هذا الملف بالأسئلة الأسبوعية بعد التحقق منها.",
+      "category": "UEFA Champions League",
+      "timeLimitSeconds": 120,
+      "verifiedSource": "https://www.uefa.com/uefachampionsleague/",
+      "verifiedSourceAr": "الموقع الرسمي للاتحاد الأوروبي لكرة القدم",
+      "dataCutoff": "Placeholder — not for gameplay",
+      "dataCutoffAr": "بيانات مؤقتة — لا تستخدم في اللعب",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Placeholder Player 1",
+          "arabicName": "لاعب مؤقت 1",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 1"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Placeholder Player 2",
+          "arabicName": "لاعب مؤقت 2",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 2"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Placeholder Player 3",
+          "arabicName": "لاعب مؤقت 3",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 3"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Placeholder Player 4",
+          "arabicName": "لاعب مؤقت 4",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 4"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Placeholder Player 5",
+          "arabicName": "لاعب مؤقت 5",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 5"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Placeholder Player 6",
+          "arabicName": "لاعب مؤقت 6",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 6"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "Placeholder Player 7",
+          "arabicName": "لاعب مؤقت 7",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 7"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Placeholder Player 8",
+          "arabicName": "لاعب مؤقت 8",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 8"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Placeholder Player 9",
+          "arabicName": "لاعب مؤقت 9",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 9"],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Placeholder Player 10",
+          "arabicName": "لاعب مؤقت 10",
+          "nationality": "Unknown",
+          "flag": "⚽",
+          "statDisplay": "Placeholder",
+          "aliases": ["placeholder player 10"],
+          "clubOrEra": ""
+        }
+      ]
+    }
+  ]
+}
