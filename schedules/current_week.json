@@ -1,116 +1,1030 @@
 {
-  "id": "france_all_time_top_scorers",
-  "utcDate": "2026-11-09",
-  "title": "France All-Time Top Scorers",
-  "titleAr": "أفضل هدافي منتخب فرنسا عبر التاريخ",
-  "description": "Name the players who have scored the most goals for France's senior men's national team.",
-  "descriptionAr": "اذكر اللاعبين الأكثر تسجيلاً للأهداف مع المنتخب الفرنسي الأول للرجال.",
-  "category": "International Football",
-  "timeLimitSeconds": 240,
-  "verifiedSource": "11v11 France national-team all-time scorers; cross-check: France national-team records table.",
-  "verifiedSourceAr": "إحصائيات 11v11 التاريخية لهدافي منتخب فرنسا؛ مع مراجعة سجل المنتخب الفرنسي.",
-  "dataCutoff": "2026-11-09; senior men's internationals. Equal goal totals are displayed in source-list order.",
-  "dataCutoffAr": "9 نوفمبر 2026؛ مباريات المنتخب الأول للرجال. عُرض اللاعبون المتعادلون في عدد الأهداف وفق ترتيب المصدر.",
-  "items": [
+  "weekNumber": 3,
+  "startDateUtc": "2026-11-09",
+  "endDateUtc": "2026-11-15",
+  "challenges": [
     {
-      "rank": 1,
-      "name": "Kylian Mbappé",
-      "arabicName": "كيليان مبابي",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "67 goals",
-      "aliases": ["Mbappe", "Kylian"],
-      "clubOrEra": ""
+      "id": "france_all_time_top_scorers",
+      "utcDate": "2026-11-09",
+      "title": "France All-Time Top Scorers",
+      "titleAr": "أفضل هدافي منتخب فرنسا عبر التاريخ",
+      "description": "Name the players who have scored the most goals for France's senior men's national team.",
+      "descriptionAr": "اذكر اللاعبين الأكثر تسجيلاً للأهداف مع المنتخب الفرنسي الأول للرجال.",
+      "category": "International Football",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "11v11 France national-team all-time scorers; snapshot checked 2026-11-09.",
+      "verifiedSourceAr": "إحصائيات 11v11 التاريخية لهدافي منتخب فرنسا؛ لقطة البيانات بتاريخ 9 نوفمبر 2026.",
+      "dataCutoff": "2026-11-09; senior men's internationals. Tied goal totals are displayed in source-list order.",
+      "dataCutoffAr": "9 نوفمبر 2026؛ مباريات المنتخب الأول للرجال. عُرض اللاعبون المتعادلون في عدد الأهداف وفق ترتيب المصدر.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Kylian Mbappé",
+          "arabicName": "كيليان مبابي",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "67 goals",
+          "aliases": [
+            "Mbappe",
+            "Kylian"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Olivier Giroud",
+          "arabicName": "أوليفييه جيرو",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "57 goals",
+          "aliases": [
+            "Giroud",
+            "Olivier"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Thierry Henry",
+          "arabicName": "تييري هنري",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "51 goals",
+          "aliases": [
+            "Henry",
+            "Thierry"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Antoine Griezmann",
+          "arabicName": "أنطوان غريزمان",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "44 goals",
+          "aliases": [
+            "Griezmann",
+            "Antoine"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Michel Platini",
+          "arabicName": "ميشيل بلاتيني",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "41 goals",
+          "aliases": [
+            "Platini",
+            "Michel"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Karim Benzema",
+          "arabicName": "كريم بنزيما",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "37 goals",
+          "aliases": [
+            "Benzema",
+            "Karim"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "David Trezeguet",
+          "arabicName": "ديفيد تريزيغيه",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "34 goals",
+          "aliases": [
+            "Trezeguet",
+            "David"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Zinédine Zidane",
+          "arabicName": "زين الدين زيدان",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "31 goals",
+          "aliases": [
+            "Zidane",
+            "Zinedine"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Just Fontaine",
+          "arabicName": "جوست فونتين",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "30 goals",
+          "aliases": [
+            "Fontaine",
+            "Just"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Jean-Pierre Papin",
+          "arabicName": "جان بيير بابان",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "30 goals",
+          "aliases": [
+            "Papin",
+            "Jean-Pierre"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     },
     {
-      "rank": 2,
-      "name": "Olivier Giroud",
-      "arabicName": "أوليفييه جيرو",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "57 goals",
-      "aliases": ["Giroud", "Olivier"],
-      "clubOrEra": ""
+      "id": "italy_euro_2020_goals_assists",
+      "utcDate": "2026-11-10",
+      "title": "Italy: EURO 2020 Goal Contributions",
+      "titleAr": "إيطاليا: أكثر المساهمين بالأهداف في يورو 2020",
+      "description": "Name Italy's top players by combined goals and assists at UEFA EURO 2020, played in 2021.",
+      "descriptionAr": "اذكر أبرز لاعبي إيطاليا حسب مجموع الأهداف والتمريرات الحاسمة في يورو 2020، التي أُقيمت في 2021.",
+      "category": "International Football",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "FBref Italy EURO 2020 player statistics; cross-check: Tribuna.com tournament stats.",
+      "verifiedSourceAr": "إحصائيات لاعبي إيطاليا في يورو 2020 من FBref؛ مع مراجعة إحصائيات البطولة على Tribuna.com.",
+      "dataCutoff": "EURO 2020 final tournament (played 2021); ranked by goals + assists. Equal totals are ordered by goals, then source-list order.",
+      "dataCutoffAr": "نهائيات يورو 2020 (أُقيمت في 2021)؛ الترتيب حسب مجموع الأهداف والتمريرات الحاسمة. عند التعادل، يُقدّم الأكثر أهدافاً ثم ترتيب المصدر.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Ciro Immobile",
+          "arabicName": "تشيرو إيموبيلي",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "2 goals + 2 assists (4 total)",
+          "aliases": [
+            "Immobile",
+            "Ciro"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 2,
+          "name": "Nicolò Barella",
+          "arabicName": "نيكولو باريلا",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "1 goals + 2 assists (3 total)",
+          "aliases": [
+            "Barella",
+            "Nicolo"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 3,
+          "name": "Federico Chiesa",
+          "arabicName": "فيديريكو كييزا",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "2 goals + 0 assists (2 total)",
+          "aliases": [
+            "Chiesa",
+            "Federico"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 4,
+          "name": "Lorenzo Insigne",
+          "arabicName": "لورينزو إنسيني",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "2 goals + 0 assists (2 total)",
+          "aliases": [
+            "Insigne",
+            "Lorenzo"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 5,
+          "name": "Manuel Locatelli",
+          "arabicName": "مانويل لوكاتيلي",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "2 goals + 0 assists (2 total)",
+          "aliases": [
+            "Locatelli",
+            "Manuel"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 6,
+          "name": "Matteo Pessina",
+          "arabicName": "ماتيو بيسينا",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "2 goals + 0 assists (2 total)",
+          "aliases": [
+            "Pessina",
+            "Matteo"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 7,
+          "name": "Marco Verratti",
+          "arabicName": "ماركو فيراتي",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "0 goals + 2 assists (2 total)",
+          "aliases": [
+            "Verratti",
+            "Marco"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 8,
+          "name": "Leonardo Bonucci",
+          "arabicName": "ليوناردو بونوتشي",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "1 goals + 0 assists (1 total)",
+          "aliases": [
+            "Bonucci",
+            "Leonardo"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 9,
+          "name": "Domenico Berardi",
+          "arabicName": "دومينيكو بيراردي",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "0 goals + 1 assists (1 total)",
+          "aliases": [
+            "Berardi",
+            "Domenico"
+          ],
+          "clubOrEra": "EURO 2020"
+        },
+        {
+          "rank": 10,
+          "name": "Leonardo Spinazzola",
+          "arabicName": "ليوناردو سبيناتسولا",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "0 goals + 1 assists (1 total)",
+          "aliases": [
+            "Spinazzola",
+            "Leonardo"
+          ],
+          "clubOrEra": "EURO 2020"
+        }
+      ]
     },
     {
-      "rank": 3,
-      "name": "Thierry Henry",
-      "arabicName": "تييري هنري",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "51 goals",
-      "aliases": ["Henry", "Thierry"],
-      "clubOrEra": ""
+      "id": "spain_all_time_appearances",
+      "utcDate": "2026-11-11",
+      "title": "Spain All-Time Appearance Leaders",
+      "titleAr": "أكثر اللاعبين مشاركةً مع منتخب إسبانيا عبر التاريخ",
+      "description": "Name the players with the most appearances for Spain's senior men's national team.",
+      "descriptionAr": "اذكر اللاعبين الأكثر مشاركةً مع منتخب إسبانيا الأول للرجال.",
+      "category": "International Football",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "11v11 Spain national-team all-time appearances; cross-check: Spain records table.",
+      "verifiedSourceAr": "إحصائيات 11v11 التاريخية لمشاركات منتخب إسبانيا؛ مع مراجعة سجل المنتخب.",
+      "dataCutoff": "2026-11-09; senior men's caps. Tied totals are shown in the source's order.",
+      "dataCutoffAr": "9 نوفمبر 2026؛ عدد مباريات المنتخب الأول للرجال. عُرض المتعادلون وفق ترتيب المصدر.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Sergio Ramos",
+          "arabicName": "سيرخيو راموس",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "180 appearances",
+          "aliases": [
+            "Ramos",
+            "Sergio"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Iker Casillas",
+          "arabicName": "إيكر كاسياس",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "167 appearances",
+          "aliases": [
+            "Casillas",
+            "Iker"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Sergio Busquets",
+          "arabicName": "سيرخيو بوسكيتس",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "143 appearances",
+          "aliases": [
+            "Busquets",
+            "Sergio"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Xavi",
+          "arabicName": "تشافي",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "133 appearances",
+          "aliases": [
+            "Xavi Hernandez",
+            "Hernandez"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Andrés Iniesta",
+          "arabicName": "أندريس إنييستا",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "131 appearances",
+          "aliases": [
+            "Iniesta",
+            "Andres"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Andoni Zubizarreta",
+          "arabicName": "أندوني زوبيزاريتا",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "126 appearances",
+          "aliases": [
+            "Zubizarreta",
+            "Andoni"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "David Silva",
+          "arabicName": "دافيد سيلفا",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "125 appearances",
+          "aliases": [
+            "Silva",
+            "David"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Xabi Alonso",
+          "arabicName": "تشابي ألونسو",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "114 appearances",
+          "aliases": [
+            "Alonso",
+            "Xabi"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Cesc Fàbregas",
+          "arabicName": "سيسك فابريغاس",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "110 appearances",
+          "aliases": [
+            "Fabregas",
+            "Cesc"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Fernando Torres",
+          "arabicName": "فرناندو توريس",
+          "nationality": "Spain",
+          "flag": "🇪🇸",
+          "statDisplay": "110 appearances",
+          "aliases": [
+            "Torres",
+            "Fernando"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     },
     {
-      "rank": 4,
-      "name": "Antoine Griezmann",
-      "arabicName": "أنطوان غريزمان",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "44 goals",
-      "aliases": ["Griezmann", "Antoine"],
-      "clubOrEra": ""
+      "id": "nations_league_all_time_top_scorers",
+      "utcDate": "2026-11-12",
+      "title": "UEFA Nations League All-Time Top Scorers",
+      "titleAr": "أفضل هدافي دوري الأمم الأوروبية عبر التاريخ",
+      "description": "Name the leading goalscorers in UEFA Nations League history.",
+      "descriptionAr": "اذكر أبرز هدافي دوري الأمم الأوروبية منذ انطلاق البطولة.",
+      "category": "UEFA Nations League",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "UEFA.com all-time Nations League top-scorers update, 2026-11-06.",
+      "verifiedSourceAr": "تحديث UEFA.com لقائمة هدافي دوري الأمم الأوروبية عبر التاريخ، 6 نوفمبر 2026.",
+      "dataCutoff": "2026-11-06; goals in the UEFA Nations League. Equal totals are displayed in the order used by UEFA's list.",
+      "dataCutoffAr": "6 نوفمبر 2026؛ الأهداف المسجلة في دوري الأمم الأوروبية. عُرض المتعادلون وفق ترتيب قائمة UEFA.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Erling Haaland",
+          "arabicName": "إيرلينغ هالاند",
+          "nationality": "Norway",
+          "flag": "🇳🇴",
+          "statDisplay": "22 goals",
+          "aliases": [
+            "Haaland",
+            "Erling"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Aleksandar Mitrović",
+          "arabicName": "ألكسندر ميتروفيتش",
+          "nationality": "Serbia",
+          "flag": "🇷🇸",
+          "statDisplay": "15 goals",
+          "aliases": [
+            "Mitrovic",
+            "Aleksandar"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Cristiano Ronaldo",
+          "arabicName": "كريستيانو رونالدو",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "15 goals",
+          "aliases": [
+            "Ronaldo",
+            "CR7",
+            "Cristiano"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Viktor Gyökeres",
+          "arabicName": "فيكتور غيوكيريس",
+          "nationality": "Sweden",
+          "flag": "🇸🇪",
+          "statDisplay": "14 goals",
+          "aliases": [
+            "Gyokeres",
+            "Viktor"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Romelu Lukaku",
+          "arabicName": "روميلو لوكاكو",
+          "nationality": "Belgium",
+          "flag": "🇧🇪",
+          "statDisplay": "14 goals",
+          "aliases": [
+            "Lukaku",
+            "Romelu"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Vedat Muriqi",
+          "arabicName": "فيدات موريكي",
+          "nationality": "Kosovo",
+          "flag": "🇽🇰",
+          "statDisplay": "14 goals",
+          "aliases": [
+            "Muriqi",
+            "Vedat"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "Harry Kane",
+          "arabicName": "هاري كين",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "12 goals",
+          "aliases": [
+            "Kane",
+            "Harry"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Kylian Mbappé",
+          "arabicName": "كيليان مبابي",
+          "nationality": "France",
+          "flag": "🇫🇷",
+          "statDisplay": "10 goals",
+          "aliases": [
+            "Mbappe",
+            "Kylian"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Danel Sinani",
+          "arabicName": "دانيل سيناني",
+          "nationality": "Luxembourg",
+          "flag": "🇱🇺",
+          "statDisplay": "10 goals",
+          "aliases": [
+            "Sinani",
+            "Danel"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Edin Džeko",
+          "arabicName": "إدين دجيكو",
+          "nationality": "Bosnia and Herzegovina",
+          "flag": "🇧🇦",
+          "statDisplay": "9 goals",
+          "aliases": [
+            "Dzeko",
+            "Edin"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     },
     {
-      "rank": 5,
-      "name": "Michel Platini",
-      "arabicName": "ميشيل بلاتيني",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "41 goals",
-      "aliases": ["Platini", "Michel"],
-      "clubOrEra": ""
+      "id": "cristiano_ronaldo_portugal_teammates",
+      "utcDate": "2026-11-13",
+      "title": "Cristiano Ronaldo's Portugal Teammates",
+      "titleAr": "أكثر زملاء كريستيانو رونالدو مشاركةً معه في منتخب البرتغال",
+      "description": "Name the Portugal players who appeared in the most senior internationals alongside Cristiano Ronaldo. Club matches do not count.",
+      "descriptionAr": "اذكر لاعبي البرتغال الذين شاركوا في أكبر عدد من المباريات الدولية مع كريستيانو رونالدو. لا تُحتسب مباريات الأندية.",
+      "category": "Portugal National Team",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "Transfermarkt teammate appearance data as reported by bet365 News (2026-10-05) and November 2026 follow-up reporting.",
+      "verifiedSourceAr": "بيانات مباريات الزمالة في Transfermarkt كما نقلتها bet365 News (5 أكتوبر 2026) وتقارير متابعة في نوفمبر 2026.",
+      "dataCutoff": "2026-11-06; shared senior Portugal appearances with Ronaldo only. Club appearances excluded. Shared-match counts are stated by the cited reporting.",
+      "dataCutoffAr": "6 نوفمبر 2026؛ عدد المباريات الدولية المشتركة مع رونالدو في منتخب البرتغال فقط، دون مباريات الأندية. الأرقام من التقارير المشار إليها.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "João Moutinho",
+          "arabicName": "جواو موتينيو",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "110 shared appearances",
+          "aliases": [
+            "Joao Moutinho",
+            "Moutinho"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Pepe",
+          "arabicName": "بيبي",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "107 shared appearances",
+          "aliases": [
+            "Képler Laveran de Lima Ferreira",
+            "Pepe"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Rui Patrício",
+          "arabicName": "روي باتريسيو",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "88 shared appearances",
+          "aliases": [
+            "Rui Patricio",
+            "Patricio"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Bernardo Silva",
+          "arabicName": "برناردو سيلفا",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "88 shared appearances",
+          "aliases": [
+            "Bernardo",
+            "B. Silva"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Nani",
+          "arabicName": "ناني",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "76 shared appearances",
+          "aliases": [
+            "Luis Nani",
+            "Nani"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Bruno Alves",
+          "arabicName": "برونو ألفيش",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "75 shared appearances",
+          "aliases": [
+            "Alves",
+            "Bruno"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "Bruno Fernandes",
+          "arabicName": "برونو فرنانديز",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "75 shared appearances",
+          "aliases": [
+            "B. Fernandes",
+            "Bruno Fernandes"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Ricardo Carvalho",
+          "arabicName": "ريكاردو كارفاليو",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "70 shared appearances",
+          "aliases": [
+            "Carvalho",
+            "Ricardo"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Rúben Dias",
+          "arabicName": "روبن دياز",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "64 shared appearances",
+          "aliases": [
+            "Ruben Dias",
+            "Dias"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Raúl Meireles",
+          "arabicName": "راؤول ميريلش",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "58 shared appearances",
+          "aliases": [
+            "Raul Meireles",
+            "Meireles"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     },
     {
-      "rank": 6,
-      "name": "Karim Benzema",
-      "arabicName": "كريم بنزيما",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "37 goals",
-      "aliases": ["Benzema", "Karim"],
-      "clubOrEra": ""
+      "id": "nations_league_all_time_appearances",
+      "utcDate": "2026-11-14",
+      "title": "UEFA Nations League Appearance Leaders",
+      "titleAr": "أكثر اللاعبين مشاركةً في دوري الأمم الأوروبية",
+      "description": "Name the players with the most appearances in UEFA Nations League history, including qualifying matches.",
+      "descriptionAr": "اذكر اللاعبين الأكثر مشاركةً في تاريخ دوري الأمم الأوروبية، بما في ذلك مباريات التصفيات.",
+      "category": "UEFA Nations League",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "zerozero UEFA Nations League all-time player appearances table; cross-check: UEFA.com all-time records (2026-10-13).",
+      "verifiedSourceAr": "جدول المشاركات التاريخية لدوري الأمم الأوروبية في zerozero؛ مع مراجعة سجل UEFA.com بتاريخ 13 أكتوبر 2026.",
+      "dataCutoff": "2026-11-09; all Nations League tiers, including qualifying, as listed by zerozero. UEFA's October 2026 summary independently confirms Donnarumma, Bernardo Silva, Cigaņiks and Modrić among the leaders; totals can differ by provider update/scope.",
+      "dataCutoffAr": "9 نوفمبر 2026؛ جميع مستويات دوري الأمم، بما فيها التصفيات، وفق جدول zerozero. يؤكد ملخص UEFA في أكتوبر 2026 وجود دوناروما وبرناردو سيلفا وسيغانكس ومودريتش ضمن المتصدرين؛ قد تختلف الأرقام حسب تحديث ونطاق كل مزود.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Gianluigi Donnarumma",
+          "arabicName": "جانلويجي دوناروما",
+          "nationality": "Italy",
+          "flag": "🇮🇹",
+          "statDisplay": "27 appearances",
+          "aliases": [
+            "Donnarumma",
+            "Gigi"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Danel Sinani",
+          "arabicName": "دانيل سيناني",
+          "nationality": "Luxembourg",
+          "flag": "🇱🇺",
+          "statDisplay": "26 appearances",
+          "aliases": [
+            "Sinani",
+            "Danel"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "Bernardo Silva",
+          "arabicName": "برناردو سيلفا",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "26 appearances",
+          "aliases": [
+            "Bernardo",
+            "B. Silva"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Andrejs Cigaņiks",
+          "arabicName": "أندرييس تسيغانكس",
+          "nationality": "Latvia",
+          "flag": "🇱🇻",
+          "statDisplay": "25 appearances",
+          "aliases": [
+            "Ciganiks",
+            "Andrejs"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Bruno Fernandes",
+          "arabicName": "برونو فرنانديز",
+          "nationality": "Portugal",
+          "flag": "🇵🇹",
+          "statDisplay": "25 appearances",
+          "aliases": [
+            "Bruno",
+            "B. Fernandes"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Luka Modrić",
+          "arabicName": "لوكا مودريتش",
+          "nationality": "Croatia",
+          "flag": "🇭🇷",
+          "statDisplay": "25 appearances",
+          "aliases": [
+            "Modric",
+            "Luka"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "Viljormur Davidsen",
+          "arabicName": "فيلجورمور دافيدسن",
+          "nationality": "Faroe Islands",
+          "flag": "🇫🇴",
+          "statDisplay": "24 appearances",
+          "aliases": [
+            "Davidsen",
+            "Viljormur"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "Harry Kane",
+          "arabicName": "هاري كين",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "24 appearances",
+          "aliases": [
+            "Kane",
+            "Harry"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Kostakis Artymatas",
+          "arabicName": "كوستاكيس أرتيماتاس",
+          "nationality": "Cyprus",
+          "flag": "🇨🇾",
+          "statDisplay": "24 appearances",
+          "aliases": [
+            "Artymatas",
+            "Kostakis"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Ivan Perišić",
+          "arabicName": "إيفان بيريشيتش",
+          "nationality": "Croatia",
+          "flag": "🇭🇷",
+          "statDisplay": "23 appearances",
+          "aliases": [
+            "Perisic",
+            "Ivan"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     },
     {
-      "rank": 7,
-      "name": "David Trézéguet",
-      "arabicName": "دافيد تريزيغيه",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "34 goals",
-      "aliases": ["Trezeguet", "David"],
-      "clubOrEra": ""
-    },
-    {
-      "rank": 8,
-      "name": "Zinédine Zidane",
-      "arabicName": "زين الدين زيدان",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "31 goals",
-      "aliases": ["Zidane", "Zinedine"],
-      "clubOrEra": ""
-    },
-    {
-      "rank": 9,
-      "name": "Just Fontaine",
-      "arabicName": "جوست فونتين",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "30 goals",
-      "aliases": ["Fontaine", "Just"],
-      "clubOrEra": ""
-    },
-    {
-      "rank": 10,
-      "name": "Jean-Pierre Papin",
-      "arabicName": "جان بيير بابان",
-      "nationality": "France",
-      "flag": "🇫🇷",
-      "statDisplay": "30 goals",
-      "aliases": ["Papin", "Jean-Pierre"],
-      "clubOrEra": ""
+      "id": "england_midfield_top_scorers",
+      "utcDate": "2026-11-15",
+      "title": "England's All-Time Top-Scoring Midfielders",
+      "titleAr": "أكثر لاعبي خط الوسط تسجيلاً للأهداف مع إنجلترا",
+      "description": "Name the midfielders with the most goals for England's senior men's national team.",
+      "descriptionAr": "اذكر لاعبي خط الوسط الأكثر تسجيلاً للأهداف مع منتخب إنجلترا الأول للرجال.",
+      "category": "England National Team",
+      "timeLimitSeconds": 240,
+      "verifiedSource": "11v11 England all-time goalscorers; MyFootballFacts England appearances/goals table for player positions; England Expects goals table (updated 2026-11-08).",
+      "verifiedSourceAr": "قائمة هدافي إنجلترا التاريخية في 11v11؛ وجدول المراكز والمشاركات والأهداف في MyFootballFacts؛ وجدول England Expects المحدث في 8 نوفمبر 2026.",
+      "dataCutoff": "2026-11-08; senior men's international goals. Midfielder classification follows listed playing positions; historical role labels can vary between sources.",
+      "dataCutoffAr": "8 نوفمبر 2026؛ أهداف المنتخب الأول للرجال. تم اعتماد تصنيف لاعبي الوسط وفق المراكز المدرجة في المصدر، مع العلم أن تصنيف بعض اللاعبين التاريخيين قد يختلف بين المراجع.",
+      "items": [
+        {
+          "rank": 1,
+          "name": "Bobby Charlton",
+          "arabicName": "بوبي تشارلتون",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "49 goals",
+          "aliases": [
+            "Charlton",
+            "Bobby"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 2,
+          "name": "Frank Lampard",
+          "arabicName": "فرانك لامبارد",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "29 goals",
+          "aliases": [
+            "Lampard",
+            "Frank"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 3,
+          "name": "David Platt",
+          "arabicName": "ديفيد بلات",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "27 goals",
+          "aliases": [
+            "Platt",
+            "David"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 4,
+          "name": "Bryan Robson",
+          "arabicName": "براين روبسون",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "26 goals",
+          "aliases": [
+            "Robson",
+            "Bryan"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 5,
+          "name": "Steven Gerrard",
+          "arabicName": "ستيفن جيرارد",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "21 goals",
+          "aliases": [
+            "Gerrard",
+            "Stevie G"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 6,
+          "name": "Kevin Keegan",
+          "arabicName": "كيفن كيغان",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "21 goals",
+          "aliases": [
+            "Keegan",
+            "Kevin"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 7,
+          "name": "Johnny Haynes",
+          "arabicName": "جوني هاينز",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "18 goals",
+          "aliases": [
+            "Haynes",
+            "Johnny"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 8,
+          "name": "David Beckham",
+          "arabicName": "ديفيد بيكهام",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "17 goals",
+          "aliases": [
+            "Beckham",
+            "David"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 9,
+          "name": "Paul Scholes",
+          "arabicName": "بول سكولز",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "14 goals",
+          "aliases": [
+            "Scholes",
+            "Paul"
+          ],
+          "clubOrEra": ""
+        },
+        {
+          "rank": 10,
+          "name": "Glenn Hoddle",
+          "arabicName": "غلين هودل",
+          "nationality": "England",
+          "flag": "🏴",
+          "statDisplay": "8 goals",
+          "aliases": [
+            "Hoddle",
+            "Glenn"
+          ],
+          "clubOrEra": ""
+        }
+      ]
     }
   ]
 }
